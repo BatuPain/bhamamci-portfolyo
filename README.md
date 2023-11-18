@@ -13,7 +13,7 @@ The portfolio site aims to continuously evolve as I progress in my journey. As I
 
 By uploading the project on GitHub, I aimed to ensure version control and contribute to the open-source community. This way, I can interact with those interested in my project, receive feedback, and potentially create collaboration opportunities for future partnerships.
 
-You can visit my portfolio site at [https://bhamamci-portfolyo.netlify.app/]. If you have any feedback, suggestions, or collaboration proposals, please feel free to get in touch.
+You can visit my portfolio site at [https://bhamamci-portfoy.netlify.app/]. If you have any feedback, suggestions, or collaboration proposals, please feel free to get in touch.
 
 Thank you for considering visiting my site. I would be delighted to hear from you.
 
