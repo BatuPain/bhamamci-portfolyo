@@ -1,0 +1,29 @@
+  *{
+    clear: both;
+    margin: auto;
+    padding: 15px 0px 0px 0px;
+  }
+
+  #card-1{
+    box-shadow: rgba(206, 214, 224, 0.4) -5px 5px, rgba(206, 214, 224,0.3) -10px 10px;
+  }
+  #card-1:hover{
+    box-shadow: rgba(206, 214, 224, 0.4) -5px 5px, rgba(206, 214, 224, 0.3) -10px 10px, rgba(206, 214, 224, 0.2) -15px 15px, rgba(206, 214, 224, 0.1) -20px 20px, rgba(206, 214, 224, 0.05) -25px 25px;
+  }
+
+  #card-2{
+    box-shadow: rgba(108 123 139) 0px 5px, rgba(206, 214, 224, 0.3) 0px 10px;}
+  #card-2:hover{
+    box-shadow: rgba(206, 214, 224,  0.4) 0px 5px, rgba(206, 214, 224,  0.3) 0px 10px, rgba(206, 214, 224,  0.2) 0px 15px, rgba(206, 214, 224,  0.1) 0px 20px, rgba(206, 214, 224,  0.05) 0px 25px;
+  }
+  #card-3{
+    box-shadow: rgba(206, 214, 224, 0.4) 5px 5px, rgba(206, 214, 224, 0.3) 10px 10px;
+  }
+
+  #card-3:hover{
+    box-shadow: rgba(206, 214, 224, 0.4) 5px 5px, rgba(206, 214, 224, 0.3) 10px 10px, rgba(206, 214, 224, 0.2) 15px 15px, rgba(206, 214, 224, 0.1) 20px 20px, rgba(206, 214, 224, 0.05) 25px 25px;
+  }
+
+  .Skills{
+    margin: 70px;
+  }
